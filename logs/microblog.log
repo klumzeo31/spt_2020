@@ -107,3 +107,4 @@ werkzeug.routing.BuildError: Could not build url for endpoint 'edit_profile'. Di
 2021-01-09 19:11:44,512 INFO: Microblog startup [in C:\Users\racco\Desktop\stp2020_zaa\app\__init__.py:43]
 2021-01-09 19:15:49,674 INFO: Microblog startup [in E:\BSUIR\stp\microblog_\app\__init__.py:43]
 2021-01-09 19:17:26,878 INFO: Microblog startup [in E:\BSUIR\stp\microblog_\app\__init__.py:43]
+2021-01-09 19:28:42,814 INFO: Microblog startup [in E:\BSUIR\stp\microblog_\app\__init__.py:43]
