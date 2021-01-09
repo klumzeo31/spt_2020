@@ -20,3 +20,5 @@ Traceback (most recent call last):
     return jwt.encode(
 AttributeError: 'str' object has no attribute 'decode'
 2021-01-09 20:48:29,699 INFO: Microblog startup [in E:\BSUIR\stp\microblog_\app\__init__.py:47]
+2021-01-09 20:48:51,135 INFO: Microblog startup [in E:\BSUIR\stp\microblog_\app\__init__.py:47]
+2021-01-09 21:00:24,225 INFO: Microblog startup [in E:\BSUIR\stp\microblog_\app\__init__.py:49]
