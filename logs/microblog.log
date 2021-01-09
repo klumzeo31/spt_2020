@@ -19,3 +19,4 @@ Traceback (most recent call last):
   File "E:\BSUIR\stp\microblog_\app\models.py", line 65, in get_reset_password_token
     return jwt.encode(
 AttributeError: 'str' object has no attribute 'decode'
+2021-01-09 20:48:29,699 INFO: Microblog startup [in E:\BSUIR\stp\microblog_\app\__init__.py:47]
